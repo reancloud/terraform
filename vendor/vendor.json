@@ -374,6 +374,90 @@
 			"revision": "edd0930276e7f1a5f2cf3e7835b5dc42a3217669"
 		},
 		{
+			"checksumSHA1": "++XyYR/ZfYoCxGn5vTlXzQZ9eo0=",
+			"path": "github.com/ChrisTrenkamp/goxpath",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "1+6R+HYdVVS4O8VOqVCIqSKi+oY=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/execxp",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "71fcaKxTSwiQzcTFTyCiqdd/8EU=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/lexer",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "BjldQE0Gsl7CbqFa4wLQpzhmX64=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/parser",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "Use9Tov7dtRIy/gv3GixcpEX5iA=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/parser/findutil",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "s2jqwMBbEzDDUQrEYZF++NzQ+7I=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/parser/intfns",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "zpOX2X+RjsnqZSmz3GWFq1lzOrU=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/parser/pathexpr",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "ujivLLH1kuIm2qom2NFTSH5OUvQ=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/xconst",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "wlR2+4lvPs2YWYZAkBrSA0gKe9I=",
+			"path": "github.com/ChrisTrenkamp/goxpath/internal/xsort",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "krxNPvjZJdXdhUGNkGW8JhOcT/c=",
+			"path": "github.com/ChrisTrenkamp/goxpath/tree",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "5XIJCUHiiwINtP9GrIs4wx+KSGA=",
+			"path": "github.com/ChrisTrenkamp/goxpath/tree/xmltree",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "6Lbaq/4cANAcTffrBEuNvCi2msA=",
+			"path": "github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlbuilder",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "KsQub+ZaW39dp9tDTYNKXlxaZgk=",
+			"path": "github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlele",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
+			"checksumSHA1": "2ZSbmMkCfHuLQanoHtVD7/kTygs=",
+			"path": "github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlnode",
+			"revision": "4fe03583929022c9c96829401ffabc755e69782e",
+			"revisionTime": "2017-06-25T21:53:50Z"
+		},
+		{
 			"checksumSHA1": "MV5JueYPwNkLZ+KNqmDcNDhsKi4=",
 			"path": "github.com/DreamItGetIT/statuscake",
 			"revision": "acc13ec021cd1e8a6ebb1d9035f513217f5c4562",
@@ -2590,14 +2674,14 @@
 			"revisionTime": "2016-06-08T18:30:07Z"
 		},
 		{
-			"checksumSHA1": "S9h7TFYtCXLDiyCj6jSl2ZY7whs=",
-			"path": "github.com/masterzen/winrm/soap",
-			"revision": "54ea5d01478cfc2afccec1504bd0dfcd8c260cfa"
+			"checksumSHA1": "dVQEUn5TxdIAXczK7rh6qUrq44Q=",
+			"path": "github.com/masterzen/winrm",
+			"revision": "7e40f93ae939004a1ef3bd5ff5c88c756ee762bb"
 		},
 		{
-			"checksumSHA1": "EDLx+ahJK3YagaYTnbE+VqE0ePs=",
-			"path": "github.com/masterzen/winrm/winrm",
-			"revision": "54ea5d01478cfc2afccec1504bd0dfcd8c260cfa"
+			"checksumSHA1": "XFSXma+KmkhkIPsh4dTd/eyja5s=",
+			"path": "github.com/masterzen/winrm/soap",
+			"revision": "7e40f93ae939004a1ef3bd5ff5c88c756ee762bb"
 		},
 		{
 			"checksumSHA1": "bx+egnFe0OB0BZBcgZcaqsvcmS4=",
